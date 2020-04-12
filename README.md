@@ -1,3 +1,7 @@
+## Levantar My Json Server Local
+guide https://my-json-server.typicode.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
